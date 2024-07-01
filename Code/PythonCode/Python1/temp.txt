@@ -1,0 +1,837 @@
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m47']
+Time: 0d0h3m47, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m47']
+Time: 0d0h3m47, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m48']
+Time: 0d0h3m48, Temp: 19.1, Turbidity: 785
+[' Turb:785', 'Time:0d0h3m46']
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m47']
+Time: 0d0h3m47, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m47']
+Time: 0d0h3m47, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m48']
+Time: 0d0h3m48, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m50']
+Time: 0d0h3m50, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m51']
+Time: 0d0h3m51, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m51']
+Time: 0d0h3m51, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m52']
+Time: 0d0h3m52, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m52']
+Time: 0d0h3m52, Temp: 19.1, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h3m53']
+Time: 0d0h3m53, Temp: 19.0, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h3m53']
+Time: 0d0h3m53, Temp: 19.0, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m54']
+Time: 0d0h3m54, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m54']
+Time: 0d0h3m54, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m55']
+Time: 0d0h3m55, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m56']
+Time: 0d0h3m56, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m56']
+Time: 0d0h3m56, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m57']
+Time: 0d0h3m57, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m57']
+Time: 0d0h3m57, Temp: 19.1, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h3m58']
+Time: 0d0h3m58, Temp: 19.0, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m58']
+Time: 0d0h3m58, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h3m59']
+Time: 0d0h3m59, Temp: 19.1, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h3m59']
+Time: 0d0h3m59, Temp: 19.0, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h4m0s']
+Time: 0d0h4m0s, Temp: 19.0, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m1s']
+Time: 0d0h4m1s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m1s']
+Time: 0d0h4m1s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m2s']
+Time: 0d0h4m2s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m2s']
+Time: 0d0h4m2s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m3s']
+Time: 0d0h4m3s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m3s']
+Time: 0d0h4m3s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m4s']
+Time: 0d0h4m4s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m4s']
+Time: 0d0h4m4s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m5s']
+Time: 0d0h4m5s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m5s']
+Time: 0d0h4m5s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m6s']
+Time: 0d0h4m6s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m7s']
+Time: 0d0h4m7s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m7s']
+Time: 0d0h4m7s, Temp: 19.1, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h4m8s']
+Time: 0d0h4m8s, Temp: 19.0, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m8s']
+Time: 0d0h4m8s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m9s']
+Time: 0d0h4m9s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m9s']
+Time: 0d0h4m9s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m10']
+Time: 0d0h4m10, Temp: 19.1, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h4m10']
+Time: 0d0h4m10, Temp: 19.0, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m11']
+Time: 0d0h4m11, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m12']
+Time: 0d0h4m12, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m12']
+Time: 0d0h4m12, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m13']
+Time: 0d0h4m13, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m13']
+Time: 0d0h4m13, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m14']
+Time: 0d0h4m14, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m14']
+Time: 0d0h4m14, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m15']
+Time: 0d0h4m15, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m15']
+Time: 0d0h4m15, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m16']
+Time: 0d0h4m16, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m17']
+Time: 0d0h4m17, Temp: 19.1, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h4m17']
+Time: 0d0h4m17, Temp: 19.0, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m18']
+Time: 0d0h4m18, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m18']
+Time: 0d0h4m18, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m19']
+Time: 0d0h4m19, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m19']
+Time: 0d0h4m19, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m20']
+Time: 0d0h4m20, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m20']
+Time: 0d0h4m20, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m21']
+Time: 0d0h4m21, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m22']
+Time: 0d0h4m22, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m22']
+Time: 0d0h4m22, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m23']
+Time: 0d0h4m23, Temp: 19.1, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h4m23']
+Time: 0d0h4m23, Temp: 19.0, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m24']
+Time: 0d0h4m24, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m24']
+Time: 0d0h4m24, Temp: 19.1, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h4m25']
+Time: 0d0h4m25, Temp: 19.0, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m25']
+Time: 0d0h4m25, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m26']
+Time: 0d0h4m26, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m26']
+Time: 0d0h4m26, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m27']
+Time: 0d0h4m27, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m28']
+Time: 0d0h4m28, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m28']
+Time: 0d0h4m28, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m29']
+Time: 0d0h4m29, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m29']
+Time: 0d0h4m29, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m30']
+Time: 0d0h4m30, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m30']
+Time: 0d0h4m30, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m31']
+Time: 0d0h4m31, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m31']
+Time: 0d0h4m31, Temp: 19.1, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h4m32']
+Time: 0d0h4m32, Temp: 19.0, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m33']
+Time: 0d0h4m33, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m33']
+Time: 0d0h4m33, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m34']
+Time: 0d0h4m34, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m34']
+Time: 0d0h4m34, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m35']
+Time: 0d0h4m35, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m35']
+Time: 0d0h4m35, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m36']
+Time: 0d0h4m36, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m36']
+Time: 0d0h4m36, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m37']
+Time: 0d0h4m37, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m38']
+Time: 0d0h4m38, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m38']
+Time: 0d0h4m38, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m39']
+Time: 0d0h4m39, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m39']
+Time: 0d0h4m39, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m40']
+Time: 0d0h4m40, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m40']
+Time: 0d0h4m40, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m41']
+Time: 0d0h4m41, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m41']
+Time: 0d0h4m41, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m42']
+Time: 0d0h4m42, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m43']
+Time: 0d0h4m43, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m43']
+Time: 0d0h4m43, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m44']
+Time: 0d0h4m44, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m44']
+Time: 0d0h4m44, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m45']
+Time: 0d0h4m45, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m45']
+Time: 0d0h4m45, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m46']
+Time: 0d0h4m46, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m46']
+Time: 0d0h4m46, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m47']
+Time: 0d0h4m47, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m48']
+Time: 0d0h4m48, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m48']
+Time: 0d0h4m48, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:786', 'Time:0d0h4m49']
+Time: 0d0h4m49, Temp: 19.1, Turbidity: 786
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m49']
+Time: 0d0h4m49, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:786', 'Time:0d0h4m50']
+Time: 0d0h4m50, Temp: 19.1, Turbidity: 786
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m50']
+Time: 0d0h4m50, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m51']
+Time: 0d0h4m51, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:786', 'Time:0d0h4m51']
+Time: 0d0h4m51, Temp: 19.1, Turbidity: 786
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m52']
+Time: 0d0h4m52, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m52']
+Time: 0d0h4m52, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m53']
+Time: 0d0h4m53, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m54']
+Time: 0d0h4m54, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m54']
+Time: 0d0h4m54, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m55']
+Time: 0d0h4m55, Temp: 19.1, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h4m55']
+Time: 0d0h4m55, Temp: 19.0, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m56']
+Time: 0d0h4m56, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m56']
+Time: 0d0h4m56, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m57']
+Time: 0d0h4m57, Temp: 19.1, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h4m57']
+Time: 0d0h4m57, Temp: 19.0, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h4m58']
+Time: 0d0h4m58, Temp: 19.0, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m59']
+Time: 0d0h4m59, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h4m59']
+Time: 0d0h4m59, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m0s']
+Time: 0d0h5m0s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m0s']
+Time: 0d0h5m0s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m1s']
+Time: 0d0h5m1s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m1s']
+Time: 0d0h5m1s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m2s']
+Time: 0d0h5m2s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m2s']
+Time: 0d0h5m2s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:786', 'Time:0d0h5m3s']
+Time: 0d0h5m3s, Temp: 19.1, Turbidity: 786
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m4s']
+Time: 0d0h5m4s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m4s']
+Time: 0d0h5m4s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m5s']
+Time: 0d0h5m5s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m5s']
+Time: 0d0h5m5s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m6s']
+Time: 0d0h5m6s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m6s']
+Time: 0d0h5m6s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m7s']
+Time: 0d0h5m7s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m7s']
+Time: 0d0h5m7s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m8s']
+Time: 0d0h5m8s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m9s']
+Time: 0d0h5m9s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m9s']
+Time: 0d0h5m9s, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m10']
+Time: 0d0h5m10, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m10']
+Time: 0d0h5m10, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m11']
+Time: 0d0h5m11, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m11']
+Time: 0d0h5m11, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m12']
+Time: 0d0h5m12, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m12']
+Time: 0d0h5m12, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m13']
+Time: 0d0h5m13, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m13']
+Time: 0d0h5m13, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m14']
+Time: 0d0h5m14, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m15']
+Time: 0d0h5m15, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:786', 'Time:0d0h5m15']
+Time: 0d0h5m15, Temp: 19.1, Turbidity: 786
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m16']
+Time: 0d0h5m16, Temp: 19.1, Turbidity: 785
+['Tc:19.1', 'Turb:785', 'Time:0d0h5m16']
+Time: 0d0h5m16, Temp: 19.1, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h5m17']
+Time: 0d0h5m17, Temp: 19.0, Turbidity: 785
+['Tc:19.0', 'Turb:785', 'Time:0d0h5m17']
+Time: 0d0h5m17, Temp: 19.0, Turbidity: 785
+['Tc:18.9', 'Turb:559', 'Time:0d0h5m18']
+Time: 0d0h5m18, Temp: 18.9, Turbidity: 559
+['Tc:18.9', 'Turb:643', 'Time:0d0h5m18']
+Time: 0d0h5m18, Temp: 18.9, Turbidity: 643
+['Tc:18.8', 'Turb:645', 'Time:0d0h5m19']
+Time: 0d0h5m19, Temp: 18.8, Turbidity: 645
+['Tc:18.8', 'Turb:459', 'Time:0d0h5m20']
+Time: 0d0h5m20, Temp: 18.8, Turbidity: 459
+['Tc:18.8', 'Turb:458', 'Time:0d0h5m20']
+Time: 0d0h5m20, Temp: 18.8, Turbidity: 458
+['Tc:18.8', 'Turb:490', 'Time:0d0h5m21']
+Time: 0d0h5m21, Temp: 18.8, Turbidity: 490
+['Tc:18.8', 'Turb:453', 'Time:0d0h5m21']
+Time: 0d0h5m21, Temp: 18.8, Turbidity: 453
+['Tc:18.7', 'Turb:478', 'Time:0d0h5m22']
+Time: 0d0h5m22, Temp: 18.7, Turbidity: 478
+['Tc:18.7', 'Turb:416', 'Time:0d0h5m22']
+Time: 0d0h5m22, Temp: 18.7, Turbidity: 416
+['Tc:18.6', 'Turb:470', 'Time:0d0h5m23']
+Time: 0d0h5m23, Temp: 18.6, Turbidity: 470
+['Tc:18.6', 'Turb:466', 'Time:0d0h5m23']
+Time: 0d0h5m23, Temp: 18.6, Turbidity: 466
+['Tc:18.6', 'Turb:464', 'Time:0d0h5m24']
+Time: 0d0h5m24, Temp: 18.6, Turbidity: 464
+['Tc:18.6', 'Turb:472', 'Time:0d0h5m25']
+Time: 0d0h5m25, Temp: 18.6, Turbidity: 472
+['Tc:18.6', 'Turb:466', 'Time:0d0h5m25']
+Time: 0d0h5m25, Temp: 18.6, Turbidity: 466
+['Tc:18.5', 'Turb:442', 'Time:0d0h5m26']
+Time: 0d0h5m26, Temp: 18.5, Turbidity: 442
+['Tc:18.5', 'Turb:443', 'Time:0d0h5m26']
+Time: 0d0h5m26, Temp: 18.5, Turbidity: 443
+['Tc:18.4', 'Turb:449', 'Time:0d0h5m27']
+Time: 0d0h5m27, Temp: 18.4, Turbidity: 449
+['Tc:18.5', 'Turb:464', 'Time:0d0h5m27']
+Time: 0d0h5m27, Temp: 18.5, Turbidity: 464
+['Tc:18.4', 'Turb:449', 'Time:0d0h5m28']
+Time: 0d0h5m28, Temp: 18.4, Turbidity: 449
+['Tc:18.4', 'Turb:452', 'Time:0d0h5m28']
+Time: 0d0h5m28, Temp: 18.4, Turbidity: 452
+['Tc:18.4', 'Turb:432', 'Time:0d0h5m29']
+Time: 0d0h5m29, Temp: 18.4, Turbidity: 432
+['Tc:18.4', 'Turb:455', 'Time:0d0h5m30']
+Time: 0d0h5m30, Temp: 18.4, Turbidity: 455
+['Tc:18.4', 'Turb:456', 'Time:0d0h5m30']
+Time: 0d0h5m30, Temp: 18.4, Turbidity: 456
+['Tc:18.4', 'Turb:459', 'Time:0d0h5m31']
+Time: 0d0h5m31, Temp: 18.4, Turbidity: 459
+['Tc:18.4', 'Turb:437', 'Time:0d0h5m31']
+Time: 0d0h5m31, Temp: 18.4, Turbidity: 437
+['Tc:18.4', 'Turb:395', 'Time:0d0h5m32']
+Time: 0d0h5m32, Temp: 18.4, Turbidity: 395
+['Tc:18.4', 'Turb:451', 'Time:0d0h5m32']
+Time: 0d0h5m32, Temp: 18.4, Turbidity: 451
+['Tc:18.4', 'Turb:433', 'Time:0d0h5m33']
+Time: 0d0h5m33, Temp: 18.4, Turbidity: 433
+['Tc:18.4', 'Turb:411', 'Time:0d0h5m33']
+Time: 0d0h5m33, Temp: 18.4, Turbidity: 411
+['Tc:18.3', 'Turb:411', 'Time:0d0h5m34']
+Time: 0d0h5m34, Temp: 18.3, Turbidity: 411
+['Tc:18.3', 'Turb:448', 'Time:0d0h5m34']
+Time: 0d0h5m34, Temp: 18.3, Turbidity: 448
+['Tc:18.4', 'Turb:450', 'Time:0d0h5m35']
+Time: 0d0h5m35, Temp: 18.4, Turbidity: 450
+['Tc:18.3', 'Turb:451', 'Time:0d0h5m36']
+Time: 0d0h5m36, Temp: 18.3, Turbidity: 451
+['Tc:18.3', 'Turb:441', 'Time:0d0h5m36']
+Time: 0d0h5m36, Temp: 18.3, Turbidity: 441
+['Tc:18.3', 'Turb:432', 'Time:0d0h5m37']
+Time: 0d0h5m37, Temp: 18.3, Turbidity: 432
+['Tc:18.3', 'Turb:405', 'Time:0d0h5m37']
+Time: 0d0h5m37, Temp: 18.3, Turbidity: 405
+['Tc:18.3', 'Turb:430', 'Time:0d0h5m38']
+Time: 0d0h5m38, Temp: 18.3, Turbidity: 430
+['Tc:18.3', 'Turb:445', 'Time:0d0h5m38']
+Time: 0d0h5m38, Temp: 18.3, Turbidity: 445
+['Tc:18.3', 'Turb:447', 'Time:0d0h5m39']
+Time: 0d0h5m39, Temp: 18.3, Turbidity: 447
+['Tc:18.3', 'Turb:451', 'Time:0d0h5m39']
+Time: 0d0h5m39, Temp: 18.3, Turbidity: 451
+['Tc:18.3', 'Turb:444', 'Time:0d0h5m40']
+Time: 0d0h5m40, Temp: 18.3, Turbidity: 444
+['Tc:18.3', 'Turb:425', 'Time:0d0h5m41']
+Time: 0d0h5m41, Temp: 18.3, Turbidity: 425
+['Tc:18.3', 'Turb:402', 'Time:0d0h5m41']
+Time: 0d0h5m41, Temp: 18.3, Turbidity: 402
+['Tc:18.3', 'Turb:366', 'Time:0d0h5m42']
+Time: 0d0h5m42, Temp: 18.3, Turbidity: 366
+['Tc:18.3', 'Turb:373', 'Time:0d0h5m42']
+Time: 0d0h5m42, Temp: 18.3, Turbidity: 373
+['Tc:18.3', 'Turb:419', 'Time:0d0h5m43']
+Time: 0d0h5m43, Temp: 18.3, Turbidity: 419
+['Tc:18.3', 'Turb:422', 'Time:0d0h5m43']
+Time: 0d0h5m43, Temp: 18.3, Turbidity: 422
+['Tc:18.3', 'Turb:410', 'Time:0d0h5m44']
+Time: 0d0h5m44, Temp: 18.3, Turbidity: 410
+['Tc:18.3', 'Turb:439', 'Time:0d0h5m44']
+Time: 0d0h5m44, Temp: 18.3, Turbidity: 439
+['Tc:18.3', 'Turb:445', 'Time:0d0h5m45']
+Time: 0d0h5m45, Temp: 18.3, Turbidity: 445
+['Tc:18.3', 'Turb:446', 'Time:0d0h5m46']
+Time: 0d0h5m46, Temp: 18.3, Turbidity: 446
+['Tc:18.3', 'Turb:414', 'Time:0d0h5m46']
+Time: 0d0h5m46, Temp: 18.3, Turbidity: 414
+['Tc:18.3', 'Turb:400', 'Time:0d0h5m47']
+Time: 0d0h5m47, Temp: 18.3, Turbidity: 400
+['Tc:18.3', 'Turb:443', 'Time:0d0h5m47']
+Time: 0d0h5m47, Temp: 18.3, Turbidity: 443
+['Tc:18.3', 'Turb:442', 'Time:0d0h5m48']
+Time: 0d0h5m48, Temp: 18.3, Turbidity: 442
+['Tc:18.3', 'Turb:433', 'Time:0d0h5m48']
+Time: 0d0h5m48, Temp: 18.3, Turbidity: 433
+['Tc:18.3', 'Turb:437', 'Time:0d0h5m49']
+Time: 0d0h5m49, Temp: 18.3, Turbidity: 437
+['Tc:18.3', 'Turb:439', 'Time:0d0h5m49']
+Time: 0d0h5m49, Temp: 18.3, Turbidity: 439
+['Tc:18.3', 'Turb:442', 'Time:0d0h5m50']
+Time: 0d0h5m50, Temp: 18.3, Turbidity: 442
+['Tc:18.3', 'Turb:450', 'Time:0d0h5m51']
+Time: 0d0h5m51, Temp: 18.3, Turbidity: 450
+['Tc:18.3', 'Turb:432', 'Time:0d0h5m51']
+Time: 0d0h5m51, Temp: 18.3, Turbidity: 432
+['Tc:18.3', 'Turb:436', 'Time:0d0h5m52']
+Time: 0d0h5m52, Temp: 18.3, Turbidity: 436
+['Tc:18.2', 'Turb:448', 'Time:0d0h5m52']
+Time: 0d0h5m52, Temp: 18.2, Turbidity: 448
+['Tc:18.3', 'Turb:457', 'Time:0d0h5m53']
+Time: 0d0h5m53, Temp: 18.3, Turbidity: 457
+['Tc:18.2', 'Turb:463', 'Time:0d0h5m53']
+Time: 0d0h5m53, Temp: 18.2, Turbidity: 463
+['Tc:18.3', 'Turb:466', 'Time:0d0h5m54']
+Time: 0d0h5m54, Temp: 18.3, Turbidity: 466
+['Tc:18.3', 'Turb:462', 'Time:0d0h5m54']
+Time: 0d0h5m54, Temp: 18.3, Turbidity: 462
+['Tc:18.2', 'Turb:444', 'Time:0d0h5m55']
+Time: 0d0h5m55, Temp: 18.2, Turbidity: 444
+['Tc:18.2', 'Turb:450', 'Time:0d0h5m55']
+Time: 0d0h5m55, Temp: 18.2, Turbidity: 450
+['Tc:18.3', 'Turb:453', 'Time:0d0h5m56']
+Time: 0d0h5m56, Temp: 18.3, Turbidity: 453
+['Tc:18.3', 'Turb:442', 'Time:0d0h5m57']
+Time: 0d0h5m57, Temp: 18.3, Turbidity: 442
+['Tc:18.3', 'Turb:448', 'Time:0d0h5m57']
+Time: 0d0h5m57, Temp: 18.3, Turbidity: 448
+['Tc:18.2', 'Turb:453', 'Time:0d0h5m58']
+Time: 0d0h5m58, Temp: 18.2, Turbidity: 453
+['Tc:18.2', 'Turb:450', 'Time:0d0h5m58']
+Time: 0d0h5m58, Temp: 18.2, Turbidity: 450
+['Tc:18.2', 'Turb:450', 'Time:0d0h5m59']
+Time: 0d0h5m59, Temp: 18.2, Turbidity: 450
+['Tc:18.2', 'Turb:452', 'Time:0d0h5m59']
+Time: 0d0h5m59, Temp: 18.2, Turbidity: 452
+['Tc:18.2', 'Turb:452', 'Time:0d0h6m0s']
+Time: 0d0h6m0s, Temp: 18.2, Turbidity: 452
+['Tc:18.2', 'Turb:456', 'Time:0d0h6m0s']
+Time: 0d0h6m0s, Temp: 18.2, Turbidity: 456
+['Tc:18.3', 'Turb:459', 'Time:0d0h6m1s']
+Time: 0d0h6m1s, Temp: 18.3, Turbidity: 459
+['Tc:18.2', 'Turb:429', 'Time:0d0h6m2s']
+Time: 0d0h6m2s, Temp: 18.2, Turbidity: 429
+['Tc:18.2', 'Turb:423', 'Time:0d0h6m2s']
+Time: 0d0h6m2s, Temp: 18.2, Turbidity: 423
+['Tc:18.3', 'Turb:445', 'Time:0d0h6m3s']
+Time: 0d0h6m3s, Temp: 18.3, Turbidity: 445
+['Tc:18.2', 'Turb:454', 'Time:0d0h6m3s']
+Time: 0d0h6m3s, Temp: 18.2, Turbidity: 454
+['Tc:18.1', 'Turb:462', 'Time:0d0h6m4s']
+Time: 0d0h6m4s, Temp: 18.1, Turbidity: 462
+['Tc:18.2', 'Turb:466', 'Time:0d0h6m4s']
+Time: 0d0h6m4s, Temp: 18.2, Turbidity: 466
+['Tc:18.3', 'Turb:466', 'Time:0d0h6m5s']
+Time: 0d0h6m5s, Temp: 18.3, Turbidity: 466
+['Tc:18.2', 'Turb:468', 'Time:0d0h6m5s']
+Time: 0d0h6m5s, Temp: 18.2, Turbidity: 468
+['Tc:18.3', 'Turb:468', 'Time:0d0h6m6s']
+Time: 0d0h6m6s, Temp: 18.3, Turbidity: 468
+['Tc:18.2', 'Turb:467', 'Time:0d0h6m7s']
+Time: 0d0h6m7s, Temp: 18.2, Turbidity: 467
+['Tc:18.3', 'Turb:464', 'Time:0d0h6m7s']
+Time: 0d0h6m7s, Temp: 18.3, Turbidity: 464
+['Tc:18.3', 'Turb:461', 'Time:0d0h6m8s']
+Time: 0d0h6m8s, Temp: 18.3, Turbidity: 461
+['Tc:18.2', 'Turb:461', 'Time:0d0h6m8s']
+Time: 0d0h6m8s, Temp: 18.2, Turbidity: 461
+['Tc:18.3', 'Turb:458', 'Time:0d0h6m9s']
+Time: 0d0h6m9s, Temp: 18.3, Turbidity: 458
+['Tc:18.2', 'Turb:458', 'Time:0d0h6m9s']
+Time: 0d0h6m9s, Temp: 18.2, Turbidity: 458
+['Tc:18.2', 'Turb:461', 'Time:0d0h6m10']
+Time: 0d0h6m10, Temp: 18.2, Turbidity: 461
+['Tc:18.2', 'Turb:458', 'Time:0d0h6m10']
+Time: 0d0h6m10, Temp: 18.2, Turbidity: 458
+['Tc:18.2', 'Turb:457', 'Time:0d0h6m11']
+Time: 0d0h6m11, Temp: 18.2, Turbidity: 457
+['Tc:18.2', 'Turb:450', 'Time:0d0h6m12']
+Time: 0d0h6m12, Temp: 18.2, Turbidity: 450
+['Tc:18.2', 'Turb:453', 'Time:0d0h6m12']
+Time: 0d0h6m12, Temp: 18.2, Turbidity: 453
+['Tc:18.2', 'Turb:451', 'Time:0d0h6m13']
+Time: 0d0h6m13, Temp: 18.2, Turbidity: 451
+['Tc:18.3', 'Turb:443', 'Time:0d0h6m13']
+Time: 0d0h6m13, Temp: 18.3, Turbidity: 443
+['Tc:18.2', 'Turb:424', 'Time:0d0h6m14']
+Time: 0d0h6m14, Temp: 18.2, Turbidity: 424
+['Tc:18.6', 'Turb:479', 'Time:0d0h6m14']
+Time: 0d0h6m14, Temp: 18.6, Turbidity: 479
+['Tc:19.9', 'Turb:451', 'Time:0d0h6m15']
+Time: 0d0h6m15, Temp: 19.9, Turbidity: 451
+['Tc:21.6', 'Turb:447', 'Time:0d0h6m15']
+Time: 0d0h6m15, Temp: 21.6, Turbidity: 447
+['Tc:23.2', 'Turb:438', 'Time:0d0h6m16']
+Time: 0d0h6m16, Temp: 23.2, Turbidity: 438
+['Tc:24.8', 'Turb:425', 'Time:0d0h6m16']
+Time: 0d0h6m16, Temp: 24.8, Turbidity: 425
+['Tc:26.3', 'Turb:422', 'Time:0d0h6m17']
+Time: 0d0h6m17, Temp: 26.3, Turbidity: 422
+['Tc:27.7', 'Turb:110', 'Time:0d0h6m18']
+Time: 0d0h6m18, Temp: 27.7, Turbidity: 110
+['Tc:29.1', 'Turb:544', 'Time:0d0h6m18']
+Time: 0d0h6m18, Temp: 29.1, Turbidity: 544
+['Tc:30.4', 'Turb:546', 'Time:0d0h6m19']
+Time: 0d0h6m19, Temp: 30.4, Turbidity: 546
+['Tc:31.6', 'Turb:660', 'Time:0d0h6m19']
+Time: 0d0h6m19, Temp: 31.6, Turbidity: 660
+['Tc:32.8', 'Turb:682', 'Time:0d0h6m20']
+Time: 0d0h6m20, Temp: 32.8, Turbidity: 682
+['Tc:33.9', 'Turb:348', 'Time:0d0h6m20']
+Time: 0d0h6m20, Temp: 33.9, Turbidity: 348
+['Tc:34.9', 'Turb:608', 'Time:0d0h6m21']
+Time: 0d0h6m21, Temp: 34.9, Turbidity: 608
+['Tc:35.9', 'Turb:601', 'Time:0d0h6m21']
+Time: 0d0h6m21, Temp: 35.9, Turbidity: 601
+['Tc:36.8', 'Turb:588', 'Time:0d0h6m22']
+Time: 0d0h6m22, Temp: 36.8, Turbidity: 588
+['Tc:37.6', 'Turb:581', 'Time:0d0h6m23']
+Time: 0d0h6m23, Temp: 37.6, Turbidity: 581
+['Tc:38.4', 'Turb:575', 'Time:0d0h6m23']
+Time: 0d0h6m23, Temp: 38.4, Turbidity: 575
+['Tc:39.1', 'Turb:571', 'Time:0d0h6m24']
+Time: 0d0h6m24, Temp: 39.1, Turbidity: 571
+['Tc:39.8', 'Turb:568', 'Time:0d0h6m24']
+Time: 0d0h6m24, Temp: 39.8, Turbidity: 568
+['Tc:40.4', 'Turb:564', 'Time:0d0h6m25']
+Time: 0d0h6m25, Temp: 40.4, Turbidity: 564
+['Tc:40.9', 'Turb:564', 'Time:0d0h6m25']
+Time: 0d0h6m25, Temp: 40.9, Turbidity: 564
+['Tc:41.6', 'Turb:562', 'Time:0d0h6m26']
+Time: 0d0h6m26, Temp: 41.6, Turbidity: 562
+['Tc:42.1', 'Turb:562', 'Time:0d0h6m27']
+Time: 0d0h6m27, Temp: 42.1, Turbidity: 562
+['Tc:42.6', 'Turb:561', 'Time:0d0h6m27']
+Time: 0d0h6m27, Temp: 42.6, Turbidity: 561
+['Tc:43.1', 'Turb:560', 'Time:0d0h6m28']
+Time: 0d0h6m28, Temp: 43.1, Turbidity: 560
+['Tc:43.5', 'Turb:560', 'Time:0d0h6m28']
+Time: 0d0h6m28, Temp: 43.5, Turbidity: 560
+['Tc:43.9', 'Turb:558', 'Time:0d0h6m29']
+Time: 0d0h6m29, Temp: 43.9, Turbidity: 558
+['Tc:44.3', 'Turb:756', 'Time:0d0h6m29']
+Time: 0d0h6m29, Temp: 44.3, Turbidity: 756
+['Tc:44.7', 'Turb:734', 'Time:0d0h6m30']
+Time: 0d0h6m30, Temp: 44.7, Turbidity: 734
+['Tc:45.1', 'Turb:747', 'Time:0d0h6m30']
+Time: 0d0h6m30, Temp: 45.1, Turbidity: 747
+['Tc:45.4', 'Turb:756', 'Time:0d0h6m31']
+Time: 0d0h6m31, Temp: 45.4, Turbidity: 756
+['Tc:45.8', 'Turb:750', 'Time:0d0h6m32']
+Time: 0d0h6m32, Temp: 45.8, Turbidity: 750
+['Tc:46.1', 'Turb:738', 'Time:0d0h6m32']
+Time: 0d0h6m32, Temp: 46.1, Turbidity: 738
+['Tc:46.4', 'Turb:751', 'Time:0d0h6m33']
+Time: 0d0h6m33, Temp: 46.4, Turbidity: 751
+['Tc:46.6', 'Turb:748', 'Time:0d0h6m33']
+Time: 0d0h6m33, Temp: 46.6, Turbidity: 748
+['Tc:46.9', 'Turb:749', 'Time:0d0h6m34']
+Time: 0d0h6m34, Temp: 46.9, Turbidity: 749
+['Tc:47.2', 'Turb:726', 'Time:0d0h6m34']
+Time: 0d0h6m34, Temp: 47.2, Turbidity: 726
+['Tc:47.4', 'Turb:704', 'Time:0d0h6m35']
+Time: 0d0h6m35, Temp: 47.4, Turbidity: 704
+['Tc:47.7', 'Turb:733', 'Time:0d0h6m35']
+Time: 0d0h6m35, Temp: 47.7, Turbidity: 733
+['Tc:47.9', 'Turb:732', 'Time:0d0h6m36']
+Time: 0d0h6m36, Temp: 47.9, Turbidity: 732
+['Tc:48.1', 'Turb:741', 'Time:0d0h6m37']
+Time: 0d0h6m37, Temp: 48.1, Turbidity: 741
+['Tc:48.3', 'Turb:748', 'Time:0d0h6m37']
+Time: 0d0h6m37, Temp: 48.3, Turbidity: 748
+['Tc:48.4', 'Turb:742', 'Time:0d0h6m38']
+Time: 0d0h6m38, Temp: 48.4, Turbidity: 742
+['Tc:48.6', 'Turb:753', 'Time:0d0h6m38']
+Time: 0d0h6m38, Temp: 48.6, Turbidity: 753
+['Tc:48.8', 'Turb:751', 'Time:0d0h6m39']
+Time: 0d0h6m39, Temp: 48.8, Turbidity: 751
+['Tc:48.9', 'Turb:748', 'Time:0d0h6m39']
+Time: 0d0h6m39, Temp: 48.9, Turbidity: 748
+['Tc:49.1', 'Turb:751', 'Time:0d0h6m40']
+Time: 0d0h6m40, Temp: 49.1, Turbidity: 751
+['Tc:49.2', 'Turb:744', 'Time:0d0h6m41']
+Time: 0d0h6m41, Temp: 49.2, Turbidity: 744
+['Tc:49.4', 'Turb:745', 'Time:0d0h6m41']
+Time: 0d0h6m41, Temp: 49.4, Turbidity: 745
+['Tc:49.5', 'Turb:740', 'Time:0d0h6m42']
+Time: 0d0h6m42, Temp: 49.5, Turbidity: 740
+['Tc:49.6', 'Turb:726', 'Time:0d0h6m42']
+Time: 0d0h6m42, Temp: 49.6, Turbidity: 726
+['Tc:49.7', 'Turb:742', 'Time:0d0h6m43']
+Time: 0d0h6m43, Temp: 49.7, Turbidity: 742
+['Tc:49.8', 'Turb:738', 'Time:0d0h6m43']
+Time: 0d0h6m43, Temp: 49.8, Turbidity: 738
+['Tc:49.9', 'Turb:741', 'Time:0d0h6m44']
+Time: 0d0h6m44, Temp: 49.9, Turbidity: 741
+['Tc:50.0', 'Turb:736', 'Time:0d0h6m44']
+Time: 0d0h6m44, Temp: 50.0, Turbidity: 736
+['Tc:50.1', 'Turb:739', 'Time:0d0h6m45']
+Time: 0d0h6m45, Temp: 50.1, Turbidity: 739
+['Tc:50.2', 'Turb:731', 'Time:0d0h6m46']
+Time: 0d0h6m46, Temp: 50.2, Turbidity: 731
+['Tc:50.3', 'Turb:722', 'Time:0d0h6m46']
+Time: 0d0h6m46, Temp: 50.3, Turbidity: 722
+['Tc:50.3', 'Turb:732', 'Time:0d0h6m47']
+Time: 0d0h6m47, Temp: 50.3, Turbidity: 732
+['Tc:50.4', 'Turb:721', 'Time:0d0h6m47']
+Time: 0d0h6m47, Temp: 50.4, Turbidity: 721
+['Tc:50.5', 'Turb:723', 'Time:0d0h6m48']
+Time: 0d0h6m48, Temp: 50.5, Turbidity: 723
+['Tc:50.6', 'Turb:729', 'Time:0d0h6m48']
+Time: 0d0h6m48, Temp: 50.6, Turbidity: 729
+['Tc:50.6', 'Turb:717', 'Time:0d0h6m49']
+Time: 0d0h6m49, Temp: 50.6, Turbidity: 717
+['Tc:50.7', 'Turb:733', 'Time:0d0h6m49']
+Time: 0d0h6m49, Temp: 50.7, Turbidity: 733
+['Tc:50.7', 'Turb:730', 'Time:0d0h6m50']
+Time: 0d0h6m50, Temp: 50.7, Turbidity: 730
+['Tc:50.8', 'Turb:721', 'Time:0d0h6m51']
+Time: 0d0h6m51, Temp: 50.8, Turbidity: 721
+['Tc:50.8', 'Turb:734', 'Time:0d0h6m51']
+Time: 0d0h6m51, Temp: 50.8, Turbidity: 734
+['Tc:50.8', 'Turb:737', 'Time:0d0h6m52']
+Time: 0d0h6m52, Temp: 50.8, Turbidity: 737
+['Tc:50.9', 'Turb:730', 'Time:0d0h6m52']
+Time: 0d0h6m52, Temp: 50.9, Turbidity: 730
+['Tc:50.9', 'Turb:725', 'Time:0d0h6m53']
+Time: 0d0h6m53, Temp: 50.9, Turbidity: 725
+['Tc:51.0', 'Turb:725', 'Time:0d0h6m53']
+Time: 0d0h6m53, Temp: 51.0, Turbidity: 725
+['Tc:51.0', 'Turb:731', 'Time:0d0h6m54']
+Time: 0d0h6m54, Temp: 51.0, Turbidity: 731
+['Tc:51.1', 'Turb:728', 'Time:0d0h6m55']
+Time: 0d0h6m55, Temp: 51.1, Turbidity: 728
+['Tc:51.1', 'Turb:723', 'Time:0d0h6m55']
+Time: 0d0h6m55, Temp: 51.1, Turbidity: 723
+['Tc:51.1', 'Turb:720', 'Time:0d0h6m56']
+Time: 0d0h6m56, Temp: 51.1, Turbidity: 720
+['Tc:51.2', 'Turb:727', 'Time:0d0h6m56']
+Time: 0d0h6m56, Temp: 51.2, Turbidity: 727
+['Tc:51.2', 'Turb:718', 'Time:0d0h6m57']
+Time: 0d0h6m57, Temp: 51.2, Turbidity: 718
+['Tc:51.3', 'Turb:729', 'Time:0d0h6m57']
+Time: 0d0h6m57, Temp: 51.3, Turbidity: 729
+['Tc:51.3', 'Turb:720', 'Time:0d0h6m58']
+Time: 0d0h6m58, Temp: 51.3, Turbidity: 720
+['Tc:51.3', 'Turb:726', 'Time:0d0h6m58']
+Time: 0d0h6m58, Temp: 51.3, Turbidity: 726
+['Tc:51.3', 'Turb:724', 'Time:0d0h6m59']
+Time: 0d0h6m59, Temp: 51.3, Turbidity: 724
+['Tc:51.3', 'Turb:724', 'Time:0d0h7m0s']
+Time: 0d0h7m0s, Temp: 51.3, Turbidity: 724
+['Tc:51.3', 'Turb:726', 'Time:0d0h7m0s']
+Time: 0d0h7m0s, Temp: 51.3, Turbidity: 726
+['Tc:51.4', 'Turb:719', 'Time:0d0h7m1s']
+Time: 0d0h7m1s, Temp: 51.4, Turbidity: 719
+['Tc:51.4', 'Turb:720', 'Time:0d0h7m1s']
+Time: 0d0h7m1s, Temp: 51.4, Turbidity: 720
+['Tc:51.4', 'Turb:722', 'Time:0d0h7m2s']
+Time: 0d0h7m2s, Temp: 51.4, Turbidity: 722
+['Tc:51.4', 'Turb:718', 'Time:0d0h7m2s']
+Time: 0d0h7m2s, Temp: 51.4, Turbidity: 718
+['Tc:51.4', 'Turb:722', 'Time:0d0h7m3s']
+Time: 0d0h7m3s, Temp: 51.4, Turbidity: 722
+['Tc:51.4', 'Turb:722', 'Time:0d0h7m4s']
+Time: 0d0h7m4s, Temp: 51.4, Turbidity: 722
+['Tc:51.5', 'Turb:720', 'Time:0d0h7m4s']
+Time: 0d0h7m4s, Temp: 51.5, Turbidity: 720
+['Tc:51.5', 'Turb:719', 'Time:0d0h7m5s']
+Time: 0d0h7m5s, Temp: 51.5, Turbidity: 719
+['Tc:51.5', 'Turb:720', 'Time:0d0h7m5s']
+Time: 0d0h7m5s, Temp: 51.5, Turbidity: 720
+['Tc:51.6', 'Turb:718', 'Time:0d0h7m6s']
+Time: 0d0h7m6s, Temp: 51.6, Turbidity: 718
+['Tc:51.6', 'Turb:717', 'Time:0d0h7m6s']
+Time: 0d0h7m6s, Temp: 51.6, Turbidity: 717
+['Tc:51.6', 'Turb:716', 'Time:0d0h7m7s']
+Time: 0d0h7m7s, Temp: 51.6, Turbidity: 716
+['Tc:51.6', 'Turb:716', 'Time:0d0h7m7s']
+Time: 0d0h7m7s, Temp: 51.6, Turbidity: 716
+['Tc:51.6', 'Turb:714', 'Time:0d0h7m8s']
+Time: 0d0h7m8s, Temp: 51.6, Turbidity: 714
+['Tc:51.6', 'Turb:716', 'Time:0d0h7m9s']
+Time: 0d0h7m9s, Temp: 51.6, Turbidity: 716
+['Tc:51.6', 'Turb:712', 'Time:0d0h7m9s']
+Time: 0d0h7m9s, Temp: 51.6, Turbidity: 712
+['Tc:51.6', 'Turb:715', 'Time:0d0h7m10']
+Time: 0d0h7m10, Temp: 51.6, Turbidity: 715
+['Tc:51.6', 'Turb:707', 'Time:0d0h7m10']
+Time: 0d0h7m10, Temp: 51.6, Turbidity: 707
+['Tc:51.6', 'Turb:677', 'Time:0d0h7m11']
+Time: 0d0h7m11, Temp: 51.6, Turbidity: 677
+['Tc:51.7', 'Turb:678', 'Time:0d0h7m11']
+Time: 0d0h7m11, Temp: 51.7, Turbidity: 678
+['Tc:51.7', 'Turb:685', 'Time:0d0h7m12']
+Time: 0d0h7m12, Temp: 51.7, Turbidity: 685
+['Tc:51.7', 'Turb:683', 'Time:0d0h7m13']
+Time: 0d0h7m13, Temp: 51.7, Turbidity: 683
+['Tc:51.8', 'Turb:682', 'Time:0d0h7m13']
+Time: 0d0h7m13, Temp: 51.8, Turbidity: 682
+['Tc:51.8', 'Turb:671', 'Time:0d0h7m14']
+Time: 0d0h7m14, Temp: 51.8, Turbidity: 671
+['Tc:51.8', 'Turb:680', 'Time:0d0h7m14']
+Time: 0d0h7m14, Temp: 51.8, Turbidity: 680
+['Tc:51.8', 'Turb:677', 'Time:0d0h7m15']
+Time: 0d0h7m15, Temp: 51.8, Turbidity: 677
+['Tc:51.8', 'Turb:678', 'Time:0d0h7m15']
+Time: 0d0h7m15, Temp: 51.8, Turbidity: 678
+['Tc:51.8', 'Turb:677', 'Time:0d0h7m16']
+Time: 0d0h7m16, Temp: 51.8, Turbidity: 677
+['Tc:51.8', 'Turb:678', 'Time:0d0h7m16']
+Time: 0d0h7m16, Temp: 51.8, Turbidity: 678
+['Tc:51.8', 'Turb:681', 'Time:0d0h7m17']
+Time: 0d0h7m17, Temp: 51.8, Turbidity: 681
+['Tc:51.9', 'Turb:677', 'Time:0d0h7m18']
+Time: 0d0h7m18, Temp: 51.9, Turbidity: 677
+['Tc:51.9', 'Turb:679', 'Time:0d0h7m18']
+Time: 0d0h7m18, Temp: 51.9, Turbidity: 679
+['Tc:51.9', 'Turb:674', 'Time:0d0h7m19']
+Time: 0d0h7m19, Temp: 51.9, Turbidity: 674
+['Tc:51.9', 'Turb:665', 'Time:0d0h7m19']
+Time: 0d0h7m19, Temp: 51.9, Turbidity: 665
+['Tc:51.9', 'Turb:669', 'Time:0d0h7m20']
+Time: 0d0h7m20, Temp: 51.9, Turbidity: 669
+['Tc:51.9', 'Turb:672', 'Time:0d0h7m20']
+Time: 0d0h7m20, Temp: 51.9, Turbidity: 672
+['Tc:51.9', 'Turb:672', 'Time:0d0h7m21']
+Time: 0d0h7m21, Temp: 51.9, Turbidity: 672
+['Tc:51.9', 'Turb:677', 'Time:0d0h7m21']
+Time: 0d0h7m21, Temp: 51.9, Turbidity: 677
+['Tc:51.9', 'Turb:677', 'Time:0d0h7m22']
+Time: 0d0h7m22, Temp: 51.9, Turbidity: 677
+['Tc:51.9', 'Turb:673', 'Time:0d0h7m23']
+Time: 0d0h7m23, Temp: 51.9, Turbidity: 673
+['Tc:51.9', 'Turb:675', 'Time:0d0h7m23']
+Time: 0d0h7m23, Temp: 51.9, Turbidity: 675
+['Tc:52.0', 'Turb:671', 'Time:0d0h7m24']
+Time: 0d0h7m24, Temp: 52.0, Turbidity: 671
+['Tc:52.0', 'Turb:669', 'Time:0d0h7m24']
+Time: 0d0h7m24, Temp: 52.0, Turbidity: 669
+['Tc:52.0', 'Turb:672', 'Time:0d0h7m25']
+Time: 0d0h7m25, Temp: 52.0, Turbidity: 672
+['Tc:52.0', 'Turb:672', 'Time:0d0h7m25']
+Time: 0d0h7m25, Temp: 52.0, Turbidity: 672
+['Tc:52.0', 'Turb:669', 'Time:0d0h7m26']
+Time: 0d0h7m26, Temp: 52.0, Turbidity: 669
+['Tc:52.0', 'Turb:670', 'Time:0d0h7m27']
+Time: 0d0h7m27, Temp: 52.0, Turbidity: 670
+['Tc:52.0', 'Turb:671', 'Time:0d0h7m27']
+Time: 0d0h7m27, Temp: 52.0, Turbidity: 671
+['Tc:52.1', 'Turb:670', 'Time:0d0h7m28']
+Time: 0d0h7m28, Temp: 52.1, Turbidity: 670
+['Tc:52.1', 'Turb:664', 'Time:0d0h7m28']
+Time: 0d0h7m28, Temp: 52.1, Turbidity: 664
+['Tc:52.1', 'Turb:680', 'Time:0d0h7m29']
+Time: 0d0h7m29, Temp: 52.1, Turbidity: 680
+['Tc:52.1', 'Turb:682', 'Time:0d0h7m29']
+Time: 0d0h7m29, Temp: 52.1, Turbidity: 682
+['Tc:52.1', 'Turb:682', 'Time:0d0h7m30']
+Time: 0d0h7m30, Temp: 52.1, Turbidity: 682
+['Tc:52.1', 'Turb:685', 'Time:0d0h7m30']
+Time: 0d0h7m30, Temp: 52.1, Turbidity: 685
+['Tc:52.1', 'Turb:687', 'Time:0d0h7m31']
+Time: 0d0h7m31, Temp: 52.1, Turbidity: 687
+['Tc:52.1', 'Turb:686', 'Time:0d0h7m32']
+Time: 0d0h7m32, Temp: 52.1, Turbidity: 686
+['Tc:52.1', 'Turb:684', 'Time:0d0h7m32']
+Time: 0d0h7m32, Temp: 52.1, Turbidity: 684
+['Tc:52.1', 'Turb:685', 'Time:0d0h7m33']
+Time: 0d0h7m33, Temp: 52.1, Turbidity: 685
+['Tc:52.1', 'Turb:683', 'Time:0d0h7m33']
+Time: 0d0h7m33, Temp: 52.1, Turbidity: 683
+['Tc:52.1', 'Turb:679', 'Time:0d0h7m34']
+Time: 0d0h7m34, Temp: 52.1, Turbidity: 679
+['Tc:52.1', 'Turb:684', 'Time:0d0h7m34']
+Time: 0d0h7m34, Temp: 52.1, Turbidity: 684
+['Tc:52.1', 'Turb:682', 'Time:0d0h7m35']
+Time: 0d0h7m35, Temp: 52.1, Turbidity: 682
+['Tc:52.1', 'Turb:682', 'Time:0d0h7m36']
+Time: 0d0h7m36, Temp: 52.1, Turbidity: 682
+['Tc:52.1', 'Turb:679', 'Time:0d0h7m36']
+Time: 0d0h7m36, Temp: 52.1, Turbidity: 679
+['Tc:52.1', 'Turb:677', 'Time:0d0h7m37']
+Time: 0d0h7m37, Temp: 52.1, Turbidity: 677
+['Tc:52.1', 'Turb:682', 'Time:0d0h7m37']
+Time: 0d0h7m37, Temp: 52.1, Turbidity: 682
+['Tc:52.1', 'Turb:680', 'Time:0d0h7m38']
+Time: 0d0h7m38, Temp: 52.1, Turbidity: 680
+['Tc:52.1', 'Turb:677', 'Time:0d0h7m38']
+Time: 0d0h7m38, Temp: 52.1, Turbidity: 677

@@ -1,0 +1,34 @@
+import pandas as pd
+
+def process_data(file_path, output_file):
+    processed_data = []
+    unique_times = set()
+
+    with open(file_path, 'r') as file:
+        for line in file:
+            # Skip lines with '['
+            if line.startswith('['):
+                continue
+
+            # Extract and reformat data
+            parts = line.strip().split(', ')
+            time = parts[0].split(':')[1]
+            
+            # Check for duplicate time entries
+            if time in unique_times:
+                continue
+
+            temperature = parts[1].split(': ')[1]
+            turbidity = parts[2].split(': ')[1]
+
+            processed_data.append({'Time': time, 'Temperature': temperature, 'Turbidity': turbidity})
+            unique_times.add(time)
+
+    # Convert to DataFrame and save as Excel file
+    df = pd.DataFrame(processed_data)
+    df.to_excel(output_file, index=False)
+
+# Example usage
+file_path = 'temp.txt'  # Replace with your actual file path
+output_file = 'processed_data.xlsx'  # Name of the Excel file to create
+process_data(file_path, output_file)
