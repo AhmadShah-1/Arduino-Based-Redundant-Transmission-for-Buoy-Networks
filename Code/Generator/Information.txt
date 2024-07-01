@@ -1,0 +1,9 @@
+1:
+TestWithDrill(MAX): contains graphs of the max voltage production of 2 separate motors.
+Voltage: Record Voltage 
+Voltage_andCurrent: Record Voltage and current (For TestWithDrill)
+WithRectifier: Record voltage with rectifier added to circuit
+
+Python Code:
+Creation of graphs, and recording data
+
