@@ -1,0 +1,2 @@
+Battery_Testing:
+This folder contains code to test the battery capacity and charge. The Arduino code is used to read the voltage level from a voltage reader connected to an Arduino Uno.

@@ -1,0 +1,5 @@
+DataSurvey:
+calibration: Calibration code for temperature sensor (Validate 100 C, boiling water, and freezing water)
+Combined: Tests both the temperature sensor and turbidity sensor
+temperatureSensor: Tests temperature sensor usage
+turbidity sensor: Tests turbidity sensor usage

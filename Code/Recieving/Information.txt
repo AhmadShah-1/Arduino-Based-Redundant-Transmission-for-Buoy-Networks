@@ -1,0 +1,1 @@
+This folder contains different iterations of code for the receiver (changes as collection changes or transmission methods change)

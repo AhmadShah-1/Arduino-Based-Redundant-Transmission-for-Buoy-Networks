@@ -1,0 +1,1 @@
+This folder contains diagrams in regards to the circuit design, with a custom-made LM339Mini module, mocked up on LTSplice
