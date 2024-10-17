@@ -4,7 +4,7 @@ import pandas as pd
 import time
 
 # Set up the serial connection (adjust the COM port and baud rate as needed)
-ser = serial.Serial('COM8', 9600, timeout=1)
+ser = serial.Serial('COM9', 9600, timeout=1)
 time.sleep(2)  # Wait for the connection to establish
 
 data = []  # List to store the parsed data

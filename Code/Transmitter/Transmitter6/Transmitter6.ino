@@ -31,6 +31,8 @@ const byte address[6] = "00001";
 
 
 void setup() {
+  Serial.begin(9600);  // Add for debugging
+
   radio.begin();
   radio.openWritingPipe(address);
   radio.setPALevel(RF24_PA_MIN);
@@ -66,6 +68,8 @@ void loop() {
   dataString += ", Time:" + String(days) + "d" + String(hours) + "h" + String(mins) + "m" + String(secs) + "s";
 
   radio.write(dataString.c_str(), dataString.length());
+  Serial.println(dataString);  // Debugging output
+
   // delay(500);
   
 }
