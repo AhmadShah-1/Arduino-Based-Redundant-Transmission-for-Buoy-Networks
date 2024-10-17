@@ -10,7 +10,7 @@ void loop() {
   // Wait for 11 seconds (11000 milliseconds)
   delay(11000);
   
-  // Turn pin 4 LOW
+  // Turn pin 4 LOW2
   digitalWrite(4, LOW);
 
   delay(11000);
