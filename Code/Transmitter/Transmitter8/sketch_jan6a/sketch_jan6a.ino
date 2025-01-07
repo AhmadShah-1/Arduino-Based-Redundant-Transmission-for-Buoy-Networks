@@ -65,10 +65,10 @@ void loop() {
                       ",V:" + String(in_voltage, 2) +
                       ",I:" + String(current_mA, 2) +
                       ",T:" + String(days) + "d" +
-                      String(hours) + "h" + String(mins) + "m" + String(secs) + "s";
+                      String(hours) + "h" + String(mins) + "m" + String(secs);
 
   // Converting String to C-string and ensuring it's null-terminated
-  char dataToSend[40];
+  char dataToSend[50];
   dataString.toCharArray(dataToSend, sizeof(dataToSend));
 
   // Sending the data over nRF24L01

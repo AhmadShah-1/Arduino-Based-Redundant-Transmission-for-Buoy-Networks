@@ -15,7 +15,7 @@ void setup() {
 
 void loop() {
   if (radio.available()) {
-    char text[40] = "";  // 32-byte buffer to match the payload size from the transmitter
+    char text[50] = "";  // 32-byte buffer to match the payload size from the transmitter
     radio.read(&text, sizeof(text));  // Read the incoming data into the buffer
 
     // Print the received data to the serial monitor
