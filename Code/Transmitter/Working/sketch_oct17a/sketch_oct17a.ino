@@ -25,7 +25,7 @@ void setup() {
   radio.begin();
   radio.openWritingPipe(address);
   radio.setPALevel(RF24_PA_MIN);
-  radio.stopListening();
+  radio.stopListening(); 
 
   sensors.begin();  // Start temperature sensor
 }
