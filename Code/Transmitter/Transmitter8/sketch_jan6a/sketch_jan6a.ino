@@ -68,7 +68,7 @@ void loop() {
                       String(hours) + "h" + String(mins) + "m" + String(secs) + "s";
 
   // Converting String to C-string and ensuring it's null-terminated
-  char dataToSend[32];
+  char dataToSend[40];
   dataString.toCharArray(dataToSend, sizeof(dataToSend));
 
   // Sending the data over nRF24L01
