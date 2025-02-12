@@ -70,16 +70,28 @@ Ensure the following libraries are installed in the Arduino IDE:
 3. The base station logs and processes the data for further analysis.
 
 ## 🛠 Testing & Results
-🔹 Range Tests – The nRF24L01 module achieved communication up to 2 km with a passive amplifier.
-🔹 Power Consumption – The system operated for 48 hours on a single charge cycle.
-🔹 Redundancy Efficiency – Data loss was reduced by 80% compared to single-channel transmission.
+- Range Tests – The nRF24L01 module achieved communication up to 2 km with a passive amplifier.
+- Power Consumption – The system operated for 48 hours on a single charge cycle.
+- Redundancy Efficiency – Data loss was reduced by 80% compared to single-channel transmission.
+
+## 👥 Contributors
+Ahmad Shah – Lead Developer, Software and Electrical Engineer
+[Team Members] – Mechanical Engineers, Business Analysts, Market Analysts
+
+
+##🔮 Future Improvements
+- 📌 Improve power efficiency by refining the custom energy production system and optimizing energy storage management.
+- 📌 Enhance data transmission stability by fine-tuning the nRF24L01 communication protocol and testing alternative amplification methods.
+- 📌 Enhance error correction algorithms.
+- 📌 Expand support for additional sensors and real-time alerts.
 
 
 
+## 🎓 Acknowledgments
+Stevens Institute of Technology
+Department of Civil, Environmental, and Ocean Engineering
 
-
-
-
+For any inquiries, please contact ahmadsyedshah123@gmail.com.
 
 
 
