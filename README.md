@@ -79,7 +79,7 @@ Ahmad Shah – Lead Developer, Software and Electrical Engineer
 [Team Members] – Mechanical Engineers, Business Analysts, Market Analysts
 
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 - 📌 Improve power efficiency by refining the custom energy production system and optimizing energy storage management.
 - 📌 Enhance data transmission stability by fine-tuning the nRF24L01 communication protocol and testing alternative amplification methods.
 - 📌 Enhance error correction algorithms.
